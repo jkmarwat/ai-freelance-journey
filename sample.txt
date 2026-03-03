@@ -1,0 +1,1 @@
+Hello! It's time to read the sample.txt file available in this directory.
